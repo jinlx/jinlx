@@ -1,6 +1,6 @@
 ### Hi there, this is [Lixu Jin (金理旭)](https://jinlx.github.io/) 👋
 
-- 🌱 I am currently a Ph.D. student in the Atmospheric Chemistry Observations and Modeling Group at the Unversity of Montana studying the atmospheric chemistry of VOCs by modelling with Prof. [Lu Hu] (https://scholar.google.com/citations?user=7WP7T3QAAAAJ&hl=en).
+- 🌱 I am currently a Ph.D. student in the Atmospheric Chemistry Observations and Modeling Group at the Unversity of Montana studying the atmospheric chemistry of VOCs by modelling with Prof. [Lu Hu](https://scholar.google.com/citations?user=7WP7T3QAAAAJ&hl=en).
 
 - 🔭 I am studying _air quality_ and _wildfire connection_ through observations and modelling. In particular, I am now focusing on developing a fire-adapted global air quality prediction model.
 
