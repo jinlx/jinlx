@@ -1,13 +1,13 @@
 ### Hi there, this is [Lixu Jin (金理旭)](https://jinlx.github.io/) 👋
 
-- 🔭 I am a postdoctoral researcher at **Rutgers University** in Prof. [Xiaomeng Jin](https://scholar.google.com/citations?user=RoWh6MEAAAAJ&hl=en)’s group, where I integrate **satellite remote sensing** (e.g., TROPOMI, TEMPO, VIIRS) with atmospheric chemistry modeling to quantify **wildfire smoke emissions–chemistry–exposure** and their impacts on **air quality and health**.
-- 🎓 I earned my Ph.D. in Atmospheric Chemistry from the **University of Montana**, where I worked with Prof. [Lu Hu](https://scholar.google.com/citations?user=7WP7T3QAAAAJ&hl=en) on observation-constrained modeling of wildfire VOC chemistry.
+- 🔭 I am a postdoctoral researcher at Rutgers University in Prof. [Xiaomeng Jin](https://scholar.google.com/citations?user=RoWh6MEAAAAJ&hl=en)’s group, where I integrate satellite remote sensing (e.g., TROPOMI, TEMPO, VIIRS) with atmospheric chemistry modeling to quantify wildfire smoke emissions–chemistry–exposure and their impacts on air quality and health.
+- 🎓 I earned my Ph.D. in Atmospheric Chemistry from the University of Montana**, where I worked with Prof. [Lu Hu](https://scholar.google.com/citations?user=7WP7T3QAAAAJ&hl=en) on observation-constrained modeling of wildfire VOC chemistry.
 - 🌱 My current interests include:
-  - **Wildfire smoke** (emissions, chemistry, and exposure)
-  - **Air quality & public health**
-  - **VOC emissions and chemistry**; **ozone photochemistry**
-  - **Chemical mechanism development**
-  - **Machine learning** and **data-driven analysis**
+  - Wildfire smoke (emissions, chemistry, and exposure)
+  - Air quality & public health
+  - VOC emissions and chemistry; ozone photochemistry
+  - Chemical mechanism development
+  - Machine learning and data-driven analysis
 
 - 📫 Contact:
   * **Personal Website**: https://jinlx.github.io/
