@@ -10,7 +10,7 @@
   - Machine learning and data-driven analysis
 
 - 📫 Contact:
-  * <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg" width=20px> My Email: lixu.jin@umconnect.umt.edu
+  * <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg" width=20px> My Email: lixu.jin@umontana.edu
   * <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width=20px> My Twitter: [@Lixu_Jin](https://twitter.com/Lixu_Jin)
   * <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width=20px> My Github: [jinlx](https://github.com/jinlx)
 
